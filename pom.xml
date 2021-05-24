@@ -5,7 +5,7 @@
 
   <groupId>za.co.fnb.demo</groupId>
   <artifactId>maven-release-demo</artifactId>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.0.1-RELEASE</version>
   <packaging>jar</packaging>
   <name>maven-release-demo</name>
 
@@ -43,7 +43,7 @@
     <!-- REPOSITORY ULR -->
     <url>scm:git:https://Mbongiseni:Mb0ng!s3n!@github.com/Mbongiseni/maven-release-demo.git</url>
 
-    <tag>v1.1-RELEASE</tag>
+    <tag>v1.0.1-RELEASE</tag>
   </scm>
 
   <dependencies>
